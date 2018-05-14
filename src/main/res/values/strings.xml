@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EKG</string>
+    <string name="psys">Psys</string>
+    <string name="pdia">Pdia</string>
+    <string name="hz">HZ</string>
+    <string name="einagabe">Enter surname and name</string>
+    <string name="surname">Surname</string>
+    <string name="name">Name</string>
+    <string name="speichern">EKG save</string>
+    <string name="source">Brücke e.V.\nwww.bruecke-ev.org\nDauerwaldweg 1 (Haus 10)\n14055 Berlin\nTel: 017689075097</string>
+    <string-array name="ekgAuswahl">
+        <item>Choose the option</item>
+        <item>Send SMS</item>
+        <item>Send E-Mail</item>
+        <item>See your Sms</item>
+    </string-array>
+    <string name="marquee">Hier köönte Ihre Werbung sein. bla-bla-bla-la-la-la-uhuuuuuuuuuuuuuuuu-und von vorne bla-bla-bla-la-la-la-uhuuuuuuuuuuuuuuuu-und von vorne</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
